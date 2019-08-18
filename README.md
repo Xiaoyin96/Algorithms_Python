@@ -10,6 +10,6 @@
 + Other answers will be updated soon.
 
 ### Offer Practice (Python version of Jianzhi Offer)
-+ Will be uploaded in [offer_pratice](./offer_pratice) 
++ Will be uploaded in [interview_pratice](./interview_pratice) 
 
 ### Others
