@@ -14,7 +14,7 @@ class ListNode:
         self.next = None
 
 class Solution:
-    def print(self, ListNode): #from tail to head
+    def print_linkedlist(self, ListNode): #from tail to head
         if ListNode.val == None:
             return None
         stack = []
@@ -22,8 +22,9 @@ class Solution:
         while head:
             stack.append(head.val)
             head = head.next
+        stack.reverse()
 
-        return stack[:-1]
+        return stack
 
 
 #%%
@@ -33,4 +34,5 @@ node3 = ListNode(13)
 node1.next = node2
 node2.next = node3
 
-print
+sol = Solution()
+print(sol.print_linkedlist(node1))
