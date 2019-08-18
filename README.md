@@ -1,4 +1,4 @@
-# Algorithms_Python
+# Algorithms and Practice in Python
 
 ### Reference Book
 + [Jianzhi Offer](剑指offer_第二版.pdf) (default language: C++)
