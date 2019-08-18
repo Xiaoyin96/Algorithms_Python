@@ -9,7 +9,7 @@
 + Top 100 interviews answer in [leetcode.ipynb](./leetcode/leetcode.ipynb)
 + Other answers will be updated soon.
 
-### Offer Practice (Python version of Jianzhi Offer)
-+ Will be uploaded in [interview_pratice](./interview_pratice) 
+### Interview Practice (Python version of Jianzhi Offer)
++ Will be uploaded in [interview_pratice](./interview_pratice/) 
 
 ### Others
