@@ -13,3 +13,4 @@
 + Will be uploaded in [interview_practice](./interview_practice/) 
 
 ### Others
++ Useful basic knowledge review for [Python interview](https://github.com/taizilongxu/interview_python)
