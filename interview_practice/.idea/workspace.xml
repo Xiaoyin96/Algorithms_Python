@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="008fe06f-173c-4c14-8345-96ba83ede68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Append/LCS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Append/LIS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Append/MaxSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Bag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Append/RainVolume.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Append/ChangeCoin.py" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/ChangeCoin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Append/ReverseLL.py" beforeDir="false" afterPath="$PROJECT_DIR$/Append/ReverseLL.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +49,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Append/LCS.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DynamicProgramming/LCS.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
@@ -73,7 +68,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Append/LIS.py">
+        <entry file="file://$PROJECT_DIR$/DynamicProgramming/LIS.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
@@ -82,10 +77,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Append/MaxSum.py">
+        <entry file="file://$PROJECT_DIR$/DynamicProgramming/MaxSum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Append/RainVolume.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -141,6 +145,7 @@
         <option value="$PROJECT_DIR$/Append/MaxSum.py" />
         <option value="$PROJECT_DIR$/Append/ReverseLL.py" />
         <option value="$PROJECT_DIR$/Append/LCS.py" />
+        <option value="$PROJECT_DIR$/Append/RainVolume.py" />
       </list>
     </option>
   </component>
@@ -210,11 +215,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LCS">
+  <component name="RunManager" selected="Python.RainVolume">
     <configuration name="Bag" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="interview_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicProgramming" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -234,6 +242,9 @@
       <module name="interview_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Append" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -253,6 +264,9 @@
       <module name="interview_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Append" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -268,7 +282,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MergeSortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RainVolume" type="PythonConfigurationType" factoryName="Python">
       <module name="interview_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,7 +295,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Append/MergeSortedArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Append/RainVolume.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,6 +308,9 @@
       <module name="interview_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Append" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -337,7 +354,6 @@
         <item itemvalue="Python.Bag" />
         <item itemvalue="Python.ReverseLL" />
         <item itemvalue="Python.BinaryTree" />
-        <item itemvalue="Python.MergeSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -357,12 +373,12 @@
       <workItem from="1566885610282" duration="6073000" />
       <workItem from="1566970268793" duration="4103000" />
       <workItem from="1567148188118" duration="3116000" />
-      <workItem from="1567199642035" duration="13620000" />
+      <workItem from="1567199642035" duration="16784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35519000" />
+    <option name="totallyTimeSpent" value="38683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -545,20 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Append/MaxSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Append/LIS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Append/ReverseLL.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -573,10 +575,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Append/LCS.py">
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/LCS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/LIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/MaxSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Append/RainVolume.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
         </state>
       </provider>
     </entry>
