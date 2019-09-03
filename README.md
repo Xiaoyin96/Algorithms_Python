@@ -7,8 +7,8 @@
 + Some answers in [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython), [Python-offer](https://github.com/JushuangQiao/Python-Offer) and [Python Answer for v2](https://www.cnblogs.com/yanmk/p/9130681.html).
 
 ### Leetcode
-+ Top 100 interviews answer in [leetcode.ipynb](./leetcode/leetcode.ipynb)
-+ Other answers will be updated soon.
++ My Top 100 interviews answer in [leetcode.ipynb](./leetcode/leetcode.ipynb)
++ My other answers will be updated soon.
 
 ### Interview Practice (Python version of Jianzhi Offer)
 + Will be uploaded in [interview_practice](./interview_practice/) 
