@@ -11,7 +11,7 @@
 + My other answers will be updated soon.
 
 ### Interview Practice (Python version of Jianzhi Offer)
-+See in [interview_practice](./interview_practice/) 
++ See in [interview_practice](./interview_practice/) 
 
 ### Others
 + Useful basic knowledge review for [Python interview](https://github.com/taizilongxu/interview_python)
