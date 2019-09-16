@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="008fe06f-173c-4c14-8345-96ba83ede68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/66Questions/23. CycleinLL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66Questions/24. ReverseLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66Questions/32.LevelPrintBinTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66Questions/33. PostTravBinTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66Questions/34.PathinBinTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66Questions/35.CopyRandomLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66Questions/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/66Questions/22. LastkNodeinLL.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/22. LastkNodeinLL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/66Questions/7. RebuildBinTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/7. RebuildBinTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66Questions/25. MergeLL.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/25. MergeLL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66Questions/26.SubTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/26.SubTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66Questions/27. MirrorBinTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/27. MirrorBinTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66Questions/28. SymmetricTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/28. SymmetricTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66Questions/29. PrintMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/29. PrintMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66Questions/30.MinStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/30.MinStack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66Questions/31.SequenceStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/31.SequenceStack.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,39 +25,89 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/66Questions/22. LastkNodeinLL.py">
+        <entry file="file://$PROJECT_DIR$/66Questions/29. PrintMatrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="55" column="14" lean-forward="true" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+            <state relative-caret-position="596">
+              <caret line="56" column="33" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/66Questions/23. CycleinLL.py">
+        <entry file="file://$PROJECT_DIR$/66Questions/30.MinStack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="57" selection-start-line="44" selection-end-line="57" />
+            <state relative-caret-position="510">
+              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/66Questions/31.SequenceStack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/66Questions/32.LevelPrintBinTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/66Questions/33. PostTravBinTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/66Questions/34.PathinBinTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/66Questions/24. ReverseLL.py">
+        <entry file="file://$PROJECT_DIR$/66Questions/35.CopyRandomLL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="45" column="43" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+            <state relative-caret-position="109">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/66Questions/6.Print_linkedlist.py">
+        <entry file="file://$PROJECT_DIR$/66Questions/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Other/BinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="21" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="51" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Other/MergeSortedArray.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -109,6 +167,20 @@
         <option value="$PROJECT_DIR$/66Questions/22. LastkNodeinLL.py" />
         <option value="$PROJECT_DIR$/66Questions/23. CycleinLL.py" />
         <option value="$PROJECT_DIR$/66Questions/24. ReverseLL.py" />
+        <option value="$PROJECT_DIR$/66Questions/25. CombineLL.py" />
+        <option value="$PROJECT_DIR$/66Questions/25. MergeLL.py" />
+        <option value="$PROJECT_DIR$/66Questions/26.SubTree.py" />
+        <option value="$PROJECT_DIR$/66Questions/27. MirrorBinTree.py" />
+        <option value="$PROJECT_DIR$/66Questions/28. SymmetricTree.py" />
+        <option value="$PROJECT_DIR$/66Questions/29. PrintMatrix.py" />
+        <option value="$PROJECT_DIR$/66Questions/30.MinStack.py" />
+        <option value="$PROJECT_DIR$/66Questions/31.SequenceStack.py" />
+        <option value="$PROJECT_DIR$/66Questions/32.PrintBinTree.py" />
+        <option value="$PROJECT_DIR$/66Questions/32.LevelPrintBinTree.py" />
+        <option value="$PROJECT_DIR$/66Questions/33. PostTravBinTree.py" />
+        <option value="$PROJECT_DIR$/66Questions/test.py" />
+        <option value="$PROJECT_DIR$/66Questions/34.PathinBinTree.py" />
+        <option value="$PROJECT_DIR$/66Questions/35.CopyRandomLL.py" />
       </list>
     </option>
   </component>
@@ -135,6 +207,21 @@
               <item name="interview_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_practice" type="462c0819:PsiDirectoryNode" />
               <item name="66Questions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="DynamicProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Other" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,7 +256,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RainVolume">
+  <component name="RunManager" selected="Python.34.PathinBinTree">
+    <configuration name="26.SubTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="interview_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/66Questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/66Questions/26.SubTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="34.PathinBinTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="interview_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/66Questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/66Questions/34.PathinBinTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Bag" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="interview_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,28 +309,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicProgramming/Bag.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="interview_practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Append" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Append/BinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,28 +361,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReverseLL" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="interview_practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Append" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Append/ReverseLL.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="interview_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -302,12 +383,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="interview_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/66Questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/66Questions/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.34.PathinBinTree" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.26.SubTree" />
         <item itemvalue="Python.LCS" />
         <item itemvalue="Python.Bag" />
-        <item itemvalue="Python.ReverseLL" />
-        <item itemvalue="Python.BinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -330,17 +431,19 @@
       <workItem from="1567199642035" duration="16784000" />
       <workItem from="1567492433926" duration="503000" />
       <workItem from="1568001183190" duration="4856000" />
+      <workItem from="1568094752988" duration="4987000" />
+      <workItem from="1568153418925" duration="14289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44042000" />
+    <option name="totallyTimeSpent" value="63318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1970181" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11341853" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -355,7 +458,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.14994934" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32928064" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946752" visible="true" weight="0.29280648" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946752" visible="true" weight="0.23809524" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -384,22 +487,11 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/interview_practice$5_replace_string.coverage" NAME="5.replace_string Coverage Results" MODIFIED="1566886885350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/interview_practice$12_Path_in_Matrix.coverage" NAME="12.Path_in_Matrix Coverage Results" MODIFIED="1566977700489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/interview_practice$26_SubTree.coverage" NAME="26.SubTree Coverage Results" MODIFIED="1568097513294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/66Questions" />
     <SUITE FILE_PATH="coverage/interview_practice$ReverseLinkedListinPair.coverage" NAME="ReverseLinkedListinPair Coverage Results" MODIFIED="1567150077000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Append" />
     <SUITE FILE_PATH="coverage/interview_practice$MergeSortedArray.coverage" NAME="MergeSortedArray Coverage Results" MODIFIED="1567209316370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Append" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/print_linkedlist" />
-    <entry file="file://$PROJECT_DIR$/5.replace_string.py" />
-    <entry file="file://$PROJECT_DIR$/1.py" />
-    <entry file="file://$PROJECT_DIR$/../../../train_cnn.py" />
-    <entry file="file://$PROJECT_DIR$/9.MyQueue.py" />
-    <entry file="file://$PROJECT_DIR$/10.2Rectangle.py" />
-    <entry file="file://$PROJECT_DIR$/13.RobotPath.py" />
-    <entry file="file://$PROJECT_DIR$/11.RotateArray.py" />
-    <entry file="file://$PROJECT_DIR$/10.Fibonacci.py" />
-    <entry file="file://$PROJECT_DIR$/12.Path_in_Matrix.py" />
-    <entry file="file://$PROJECT_DIR$/Append/ReverseLinkedListinPair.py" />
-    <entry file="file://$PROJECT_DIR$/Append/MergeSortedArray.py" />
     <entry file="file://$PROJECT_DIR$/6.Print_linkedlist.py" />
     <entry file="file://$PROJECT_DIR$/4.Search2Darray.py" />
     <entry file="file://$PROJECT_DIR$/10.1.FrogJump.py" />
@@ -448,13 +540,7 @@
     <entry file="file://$PROJECT_DIR$/66Questions/10.2Rectangle.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../7. RebuildBinTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="32" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../7. RebuildBinTree.py" />
     <entry file="file://$PROJECT_DIR$/66Questions/7. RebuildBinTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -496,31 +582,140 @@
     <entry file="file://$PROJECT_DIR$/66Questions/19. RegexMatch.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/66Questions/6.Print_linkedlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/66Questions/22. LastkNodeinLL.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="55" column="14" lean-forward="true" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+        <state relative-caret-position="825">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/66Questions/23. CycleinLL.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
+        <state relative-caret-position="855">
           <caret line="57" selection-start-line="44" selection-end-line="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/66Questions/24. ReverseLL.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="45" column="43" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+        <state relative-caret-position="780">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/25. MergeLL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/26.SubTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/6.Print_linkedlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/27. MirrorBinTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="77" lean-forward="true" selection-start-line="63" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/28. SymmetricTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Other/Anagram.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Other/ReverseLinkedListinPair.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/BubbleSort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/MergeSort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/SelectionSort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/29. PrintMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="56" column="33" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/30.MinStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/31.SequenceStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Other/BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="21" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Other/MergeSortedArray.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/32.LevelPrintBinTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/33. PostTravBinTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/34.PathinBinTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/35.CopyRandomLL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
