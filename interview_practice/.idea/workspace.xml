@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="008fe06f-173c-4c14-8345-96ba83ede68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/66Questions/32.LevelPrintBinTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66Questions/33. PostTravBinTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66Questions/34.PathinBinTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66Questions/35.CopyRandomLL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66Questions/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66Questions/36.BinTree2LL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66Questions/37.SerializeBinTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66Questions/38.StringPermutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66Questions/39.MorethanHalfNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66Questions/40. LeastkNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66Questions/41. GetMedian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66Questions/42.MaxSumSubArray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/66Questions/25. MergeLL.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/25. MergeLL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/66Questions/26.SubTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/26.SubTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/66Questions/27. MirrorBinTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/27. MirrorBinTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/66Questions/28. SymmetricTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/28. SymmetricTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/66Questions/29. PrintMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/29. PrintMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/66Questions/30.MinStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/30.MinStack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/66Questions/31.SequenceStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/66Questions/31.SequenceStack.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,73 +20,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/66Questions/29. PrintMatrix.py">
+        <entry file="file://$PROJECT_DIR$/66Questions/35.CopyRandomLL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="56" column="33" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+            <state relative-caret-position="420">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/66Questions/30.MinStack.py">
+        <entry file="file://$PROJECT_DIR$/66Questions/36.BinTree2LL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+            <state relative-caret-position="945">
+              <caret line="63" column="21" selection-start-line="50" selection-end-line="63" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/66Questions/31.SequenceStack.py">
+        <entry file="file://$PROJECT_DIR$/66Questions/37.SerializeBinTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="930">
+              <caret line="62" column="61" selection-start-line="62" selection-start-column="61" selection-end-line="62" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/66Questions/32.LevelPrintBinTree.py">
+        <entry file="file://$PROJECT_DIR$/66Questions/38.StringPermutation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="139">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/66Questions/33. PostTravBinTree.py">
+        <entry file="file://$PROJECT_DIR$/66Questions/39.MorethanHalfNum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/66Questions/34.PathinBinTree.py">
+        <entry file="file://$PROJECT_DIR$/66Questions/40. LeastkNum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+            <state relative-caret-position="240">
+              <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+              <folding>
+                <element signature="e#134#146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/66Questions/41. GetMedian.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/66Questions/35.CopyRandomLL.py">
+        <entry file="file://$PROJECT_DIR$/66Questions/42.MaxSumSubArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/66Questions/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="540">
+              <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -100,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/Other/BinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="765">
-              <caret line="51" column="21" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="51" selection-end-column="21" />
+              <caret line="51" column="21" selection-start-line="33" selection-start-column="4" selection-end-line="51" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -133,12 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/5.replace_string.py" />
-        <option value="$PROJECT_DIR$/1.py" />
-        <option value="$PROJECT_DIR$/6.Print_linkedlist.py" />
-        <option value="$PROJECT_DIR$/9.py" />
-        <option value="$PROJECT_DIR$/9.MyQueue.py" />
-        <option value="$PROJECT_DIR$/10_Fibonacci.py" />
         <option value="$PROJECT_DIR$/10.Fibonacci.py" />
         <option value="$PROJECT_DIR$/10.1.FrogJump.py" />
         <option value="$PROJECT_DIR$/10.2Rectangle.py" />
@@ -181,6 +173,15 @@
         <option value="$PROJECT_DIR$/66Questions/test.py" />
         <option value="$PROJECT_DIR$/66Questions/34.PathinBinTree.py" />
         <option value="$PROJECT_DIR$/66Questions/35.CopyRandomLL.py" />
+        <option value="$PROJECT_DIR$/66Questions/36.BinTree2LL.py" />
+        <option value="$PROJECT_DIR$/66Questions/37.SerializeBinTree.py" />
+        <option value="$PROJECT_DIR$/66Questions/38.StringCombination.py" />
+        <option value="$PROJECT_DIR$/66Questions/38.StringPermutation.py" />
+        <option value="$PROJECT_DIR$/66Questions/39.MorethanHalfNum.py" />
+        <option value="$PROJECT_DIR$/66Questions/40. LeastkNum.py" />
+        <option value="$PROJECT_DIR$/66Questions/41. GetMedian.py" />
+        <option value="$PROJECT_DIR$/66Questions/42.MaxSubsequence.py" />
+        <option value="$PROJECT_DIR$/66Questions/42.MaxSumSubArray.py" />
       </list>
     </option>
   </component>
@@ -196,6 +197,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,7 +229,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,11 +257,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.34.PathinBinTree">
+  <component name="RunManager" selected="Python.38.StringCombination">
     <configuration name="26.SubTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="interview_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/66Questions" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -280,6 +284,9 @@
       <module name="interview_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/66Questions" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -295,7 +302,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Bag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="38.StringCombination" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="interview_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,12 +310,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/66Questions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicProgramming/Bag.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/66Questions/38.StringPermutation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,6 +394,9 @@
       <module name="interview_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/66Questions" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -404,11 +414,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.38.StringCombination" />
         <item itemvalue="Python.34.PathinBinTree" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.26.SubTree" />
         <item itemvalue="Python.LCS" />
-        <item itemvalue="Python.Bag" />
       </list>
     </recent_temporary>
   </component>
@@ -432,18 +442,19 @@
       <workItem from="1567492433926" duration="503000" />
       <workItem from="1568001183190" duration="4856000" />
       <workItem from="1568094752988" duration="4987000" />
-      <workItem from="1568153418925" duration="14289000" />
+      <workItem from="1568153418925" duration="19937000" />
+      <workItem from="1568914967018" duration="5164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63318000" />
+    <option name="totallyTimeSpent" value="74130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11341853" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14217253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -458,7 +469,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.14994934" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32928064" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946752" visible="true" weight="0.23809524" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946752" visible="true" weight="0.1337386" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -492,13 +503,6 @@
     <SUITE FILE_PATH="coverage/interview_practice$MergeSortedArray.coverage" NAME="MergeSortedArray Coverage Results" MODIFIED="1567209316370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Append" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6.Print_linkedlist.py" />
-    <entry file="file://$PROJECT_DIR$/4.Search2Darray.py" />
-    <entry file="file://$PROJECT_DIR$/10.1.FrogJump.py" />
-    <entry file="file://$PROJECT_DIR$/Append/BinarySearch.py" />
-    <entry file="file://$PROJECT_DIR$/Append/IntersectionofLL.py" />
-    <entry file="file://$PROJECT_DIR$/Append/Anagram.py" />
-    <entry file="file://$PROJECT_DIR$/Append/QuickSort.py" />
     <entry file="file://$PROJECT_DIR$/Append/BinaryTree.py" />
     <entry file="file://$PROJECT_DIR$/Append/ReverseLL.py" />
     <entry file="file://$PROJECT_DIR$/Append/RainVolume.py" />
@@ -667,30 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/66Questions/31.SequenceStack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Other/BinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="21" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="51" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Other/MergeSortedArray.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/66Questions/32.LevelPrintBinTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/66Questions/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -698,24 +678,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/31.SequenceStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/32.LevelPrintBinTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/66Questions/33. PostTravBinTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
+        <state relative-caret-position="555">
           <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/66Questions/34.PathinBinTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        <state relative-caret-position="900">
+          <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/66Questions/35.CopyRandomLL.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="35" />
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/36.BinTree2LL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="21" selection-start-line="50" selection-end-line="63" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/37.SerializeBinTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="61" selection-start-line="62" selection-start-column="61" selection-end-line="62" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Other/BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="21" selection-start-line="33" selection-start-column="4" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Other/MergeSortedArray.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/38.StringPermutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/39.MorethanHalfNum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/41. GetMedian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/40. LeastkNum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+          <folding>
+            <element signature="e#134#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66Questions/42.MaxSumSubArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
         </state>
       </provider>
     </entry>
