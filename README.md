@@ -6,10 +6,6 @@
 + Python file in [Algorithms](./algorithms) forked from [PegasusWang](https://github.com/PegasusWang/python_data_structures_and_algorithms).
 + Some answer references in [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython), [Python-offer](https://github.com/JushuangQiao/Python-Offer) and [Python Answer for v2](https://www.cnblogs.com/yanmk/p/9130681.html).
 
-### Leetcode
-+ My Top 100 interviews answer in [leetcode.ipynb](./leetcode/leetcode.ipynb)
-+ My other answers will be updated soon.
-
 ### Interview Practice
 + See in [interview_practice](./interview_practice/) 
 
